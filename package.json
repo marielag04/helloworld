@@ -1,0 +1,11 @@
+{
+    "name": "app-service-helloworld-node-js",
+    "description": "Hello World for Azure App Service",
+    "version": "0.0.1",
+    "private": false,
+    "license": "MIT",
+    "author": "Microsoft",
+    "scripts": {
+        "start": "node index.js"
+    }
+}
